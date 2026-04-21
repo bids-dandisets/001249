@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "FosTRAP dataset used in Ishii et al 2023, https://doi.org/10.7554/eLife.91765.1",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Ishii, Kentaro"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
